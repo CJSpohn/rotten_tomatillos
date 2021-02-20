@@ -10,11 +10,11 @@ The data for the project came from [here](https://rancid-tomatillos.herokuapp.co
 
 ## Overview
 
-This is the partner project for Mod 3 at the Turing School of Software and Design. The goal of this application was to develop an understanding of React by building a simple movie display site using principles of development we've been studying for the last 12 weeks but incorporating an entirely new tool set. 
+This is the partner project for Mod 3 at the Turing School of Software and Design. The goal of this application was to develop an understanding of React by building a simple movie display site using principles of development we have been studying for the last 12 weeks while incorporating an entirely new tool set. 
 
-The user flow is simple. Upon visiting the site a user is shown all of the movies that exist in the data. A user can click on the poster or title and be taken to another view that shows the details of that movie and return to the main display. Additionally, a user can use the search bar at the top to filter movies by title.
+The user flow is simple. Upon visiting the site, a user is shown all of the movies that exist in the data. A user can click on the poster or title and be taken to another view that shows the details of that movie, and then return to the main display. Additionally, a user can use the search bar at the top to filter movies by title.
 
-While the desplay isn't complex, the real growth happened in learning the underylying technologies. The project was built with create react app and incorporates React Router, React Content Loader, and a complete end to end testing suite using Cypress.
+While the display isn't complex, the real growth happened in learning the underlying technologies. The project was built with create react app and incorporates React Router, React Content Loader, and a complete end to end testing suite using Cypress.
 
 ## Learning Goals
 
